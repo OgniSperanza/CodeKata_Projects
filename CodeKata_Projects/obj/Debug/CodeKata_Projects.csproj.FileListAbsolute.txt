@@ -1,0 +1,6 @@
+C:\Projects\Git\CodeKata_Projects\CodeKata_Projects\bin\Debug\CodeKata_Projects.dll
+C:\Projects\Git\CodeKata_Projects\CodeKata_Projects\bin\Debug\CodeKata_Projects.pdb
+C:\Projects\Git\CodeKata_Projects\CodeKata_Projects\obj\Debug\CodeKata_Projects.csprojResolveAssemblyReference.cache
+C:\Projects\Git\CodeKata_Projects\CodeKata_Projects\obj\Debug\CodeKata_Projects.csproj.CoreCompileInputs.cache
+C:\Projects\Git\CodeKata_Projects\CodeKata_Projects\obj\Debug\CodeKata_Projects.dll
+C:\Projects\Git\CodeKata_Projects\CodeKata_Projects\obj\Debug\CodeKata_Projects.pdb
